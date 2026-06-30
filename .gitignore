@@ -15,7 +15,7 @@ Thumbs.db
 .vscode/
 
 # Local data artifacts
-data/output/
+# data/output/
 
 # Environment and logs
 .env

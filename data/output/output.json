@@ -1,0 +1,1048 @@
+[
+  {
+    "candidate_id": "master::group::email_match::aarav.sharma_at_gmail.com",
+    "full_name": "Aarav Sharma",
+    "email": "aarav.sharma@gmail.com",
+    "phone": "+919876543210",
+    "current_title": "Software Engineer",
+    "location": "Bengaluru",
+    "skills": [
+      "Java",
+      "Python",
+      "SQL",
+      "AWS",
+      "Docker",
+      "Spring Boot",
+      "Kubernetes",
+      "Azure",
+      "Microservices",
+      "JavaScript",
+      "Node.js",
+      "MongoDB",
+      "React"
+    ],
+    "confidence_score": 0.79,
+    "provenance": [
+      {
+        "field_name": "full_name",
+        "source_record_id": "raw_e2d800f11a514d28a1e452024f4e13f1",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": "Aarav Sharma"
+      },
+      {
+        "field_name": "first_name",
+        "source_record_id": "raw_e2d800f11a514d28a1e452024f4e13f1",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": "Aarav"
+      },
+      {
+        "field_name": "last_name",
+        "source_record_id": "raw_e2d800f11a514d28a1e452024f4e13f1",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": "Sharma"
+      },
+      {
+        "field_name": "headline",
+        "source_record_id": "raw_e2d800f11a514d28a1e452024f4e13f1",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": "Software Engineer"
+      },
+      {
+        "field_name": "contact.email",
+        "source_record_id": "raw_e2d800f11a514d28a1e452024f4e13f1",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": "aarav.sharma@gmail.com"
+      },
+      {
+        "field_name": "contact.phone",
+        "source_record_id": "raw_e2d800f11a514d28a1e452024f4e13f1",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": "+919876543210"
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_e2d800f11a514d28a1e452024f4e13f1",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "name": "Java",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_e2d800f11a514d28a1e452024f4e13f1",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "name": "Python",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_e2d800f11a514d28a1e452024f4e13f1",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "name": "SQL",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_e2d800f11a514d28a1e452024f4e13f1",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "name": "AWS",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_e2d800f11a514d28a1e452024f4e13f1",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "name": "Docker",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_e2d800f11a514d28a1e452024f4e13f1",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "name": "Spring Boot",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_ec3008b61bf64a7193e87facd862539b",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "name": "Kubernetes",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_ec3008b61bf64a7193e87facd862539b",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "name": "Azure",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_ec3008b61bf64a7193e87facd862539b",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "name": "Microservices",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_10be8f998329484994cc90f08874f9fd",
+        "source_name": "Aarav Sharma.pdf",
+        "source_type": "resume_pdf",
+        "method": "merged",
+        "source_value": {
+          "name": "JavaScript",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_10be8f998329484994cc90f08874f9fd",
+        "source_name": "Aarav Sharma.pdf",
+        "source_type": "resume_pdf",
+        "method": "merged",
+        "source_value": {
+          "name": "Node.js",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_10be8f998329484994cc90f08874f9fd",
+        "source_name": "Aarav Sharma.pdf",
+        "source_type": "resume_pdf",
+        "method": "merged",
+        "source_value": {
+          "name": "MongoDB",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_10be8f998329484994cc90f08874f9fd",
+        "source_name": "Aarav Sharma.pdf",
+        "source_type": "resume_pdf",
+        "method": "merged",
+        "source_value": {
+          "name": "React",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "education",
+        "source_record_id": "raw_10be8f998329484994cc90f08874f9fd",
+        "source_name": "Aarav Sharma.pdf",
+        "source_type": "resume_pdf",
+        "method": "merged",
+        "source_value": {
+          "institution_name": "VIT Vellore",
+          "degree": "b.tech",
+          "field_of_study": "CSE",
+          "graduation_date": "2022-01-01"
+        }
+      },
+      {
+        "field_name": "work_experience",
+        "source_record_id": "raw_e2d800f11a514d28a1e452024f4e13f1",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "company_name": "Infosys",
+          "title": "Software Engineer",
+          "start_date": null,
+          "end_date": null,
+          "is_current": false,
+          "description": "name: Aarav Sharma email: aarav.sharma@gmail.com phone: +91-9876543210 company: Infosys title: Software Engineer skills: Java,Python,SQL,AWS,Docker,Spring Boot location: Bengaluru"
+        }
+      },
+      {
+        "field_name": "work_experience",
+        "source_record_id": "raw_ec3008b61bf64a7193e87facd862539b",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "company_name": "TCS",
+          "title": "Senior Software Engineer",
+          "start_date": null,
+          "end_date": null,
+          "is_current": false,
+          "description": "name: Aarav Sharma email: aarav.sharma@gmail.com phone: +91-9876543210 company: TCS title: Senior Software Engineer skills: Java,Python,Kubernetes,Docker,Azure,Microservices location: Bangalore"
+        }
+      },
+      {
+        "field_name": "work_experience",
+        "source_record_id": "raw_10be8f998329484994cc90f08874f9fd",
+        "source_name": "Aarav Sharma.pdf",
+        "source_type": "resume_pdf",
+        "method": "merged",
+        "source_value": {
+          "company_name": "Infosys",
+          "title": "Software Engineer",
+          "start_date": null,
+          "end_date": null,
+          "is_current": true,
+          "description": "Software Engineer, Infosys Jul 2022 - present"
+        }
+      },
+      {
+        "field_name": "work_experience",
+        "source_record_id": "raw_3392d09aaf5c4998a06e91588bb048bb",
+        "source_name": "Aarav SharmaD.pdf",
+        "source_type": "resume_pdf",
+        "method": "merged",
+        "source_value": {
+          "company_name": "TCS",
+          "title": "Senior Software Engineer",
+          "start_date": null,
+          "end_date": null,
+          "is_current": true,
+          "description": "Senior Software Engineer, TCS Jan 2024 - present"
+        }
+      },
+      {
+        "field_name": "location.city",
+        "source_record_id": "raw_e2d800f11a514d28a1e452024f4e13f1",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": "Bengaluru"
+      },
+      {
+        "field_name": "location.raw_location",
+        "source_record_id": "raw_e2d800f11a514d28a1e452024f4e13f1",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": "Bengaluru"
+      },
+      {
+        "field_name": "location.state_or_region",
+        "source_record_id": "raw_10be8f998329484994cc90f08874f9fd",
+        "source_name": "Aarav Sharma.pdf",
+        "source_type": "resume_pdf",
+        "method": "conflict_resolution",
+        "source_value": "Karnataka"
+      },
+      {
+        "field_name": "attributes.source_sentences",
+        "source_record_id": "raw_e2d800f11a514d28a1e452024f4e13f1",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": [
+          "name: Aarav Sharma email: aarav.sharma@gmail.com phone: +91-9876543210 company: Infosys title: Software Engineer skills: Java,Python,SQL,AWS,Docker,Spring Boot location: Bengaluru"
+        ]
+      },
+      {
+        "field_name": "attributes.organizations",
+        "source_record_id": "raw_e2d800f11a514d28a1e452024f4e13f1",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": [
+          "Infosys"
+        ]
+      },
+      {
+        "field_name": "summary",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      },
+      {
+        "field_name": "contact.alternate_emails",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      },
+      {
+        "field_name": "contact.alternate_phones",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      },
+      {
+        "field_name": "contact.linkedin_url",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      },
+      {
+        "field_name": "location.country",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      },
+      {
+        "field_name": "location.postal_code",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      },
+      {
+        "field_name": "certifications",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      },
+      {
+        "field_name": "languages",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      }
+    ],
+    "attributes": {}
+  },
+  {
+    "candidate_id": "master::group::email_match::priya.verma_at_gmail.com",
+    "full_name": "Priya Verma",
+    "email": "priya.verma@gmail.com",
+    "current_title": "Data Scientist",
+    "location": "Pune",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow",
+      "NLP",
+      "Pandas",
+      "Scikit-Learn",
+      "NumPy"
+    ],
+    "confidence_score": 0.8,
+    "provenance": [
+      {
+        "field_name": "full_name",
+        "source_record_id": "raw_6a41def9304446adb8779f80d82c6338",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": "Priya Verma"
+      },
+      {
+        "field_name": "first_name",
+        "source_record_id": "raw_6a41def9304446adb8779f80d82c6338",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": "Priya"
+      },
+      {
+        "field_name": "last_name",
+        "source_record_id": "raw_6a41def9304446adb8779f80d82c6338",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": "Verma"
+      },
+      {
+        "field_name": "headline",
+        "source_record_id": "raw_6a41def9304446adb8779f80d82c6338",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": "Data Scientist"
+      },
+      {
+        "field_name": "contact.email",
+        "source_record_id": "raw_6a41def9304446adb8779f80d82c6338",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": "priya.verma@gmail.com"
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_6a41def9304446adb8779f80d82c6338",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "name": "Python",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_6a41def9304446adb8779f80d82c6338",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "name": "Machine Learning",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_6a41def9304446adb8779f80d82c6338",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "name": "TensorFlow",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_6a41def9304446adb8779f80d82c6338",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "name": "NLP",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_6a41def9304446adb8779f80d82c6338",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "name": "Pandas",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_6a41def9304446adb8779f80d82c6338",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "name": "Scikit-Learn",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_ccf6473d4fc44af4be1371e0db70bbaf",
+        "source_name": "Priya Verma.pdf",
+        "source_type": "resume_pdf",
+        "method": "merged",
+        "source_value": {
+          "name": "NumPy",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "education",
+        "source_record_id": "raw_ccf6473d4fc44af4be1371e0db70bbaf",
+        "source_name": "Priya Verma.pdf",
+        "source_type": "resume_pdf",
+        "method": "merged",
+        "source_value": {
+          "institution_name": "MIT Pune",
+          "degree": "b.tech",
+          "field_of_study": "AI & ML",
+          "graduation_date": "2023-01-01"
+        }
+      },
+      {
+        "field_name": "work_experience",
+        "source_record_id": "raw_6a41def9304446adb8779f80d82c6338",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "company_name": "Accenture",
+          "title": "Data Scientist",
+          "start_date": null,
+          "end_date": null,
+          "is_current": false,
+          "description": "name: Priya Verma email: priya.verma@gmail.com company: Accenture title: Data Scientist skills: Python,Machine Learning,TensorFlow,NLP,Pandas,Scikit-Learn location: Pune"
+        }
+      },
+      {
+        "field_name": "work_experience",
+        "source_record_id": "raw_ccf6473d4fc44af4be1371e0db70bbaf",
+        "source_name": "Priya Verma.pdf",
+        "source_type": "resume_pdf",
+        "method": "merged",
+        "source_value": {
+          "company_name": "Accenture",
+          "title": "Data Scientist",
+          "start_date": null,
+          "end_date": null,
+          "is_current": true,
+          "description": "Data Scientist, Accenture Aug 2023 - present"
+        }
+      },
+      {
+        "field_name": "location.city",
+        "source_record_id": "raw_6a41def9304446adb8779f80d82c6338",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": "Pune"
+      },
+      {
+        "field_name": "location.raw_location",
+        "source_record_id": "raw_6a41def9304446adb8779f80d82c6338",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": "Pune"
+      },
+      {
+        "field_name": "location.state_or_region",
+        "source_record_id": "raw_ccf6473d4fc44af4be1371e0db70bbaf",
+        "source_name": "Priya Verma.pdf",
+        "source_type": "resume_pdf",
+        "method": "conflict_resolution",
+        "source_value": "Maharashtra"
+      },
+      {
+        "field_name": "attributes.source_sentences",
+        "source_record_id": "raw_6a41def9304446adb8779f80d82c6338",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": [
+          "name: Priya Verma email: priya.verma@gmail.com company: Accenture title: Data Scientist skills: Python,Machine Learning,TensorFlow,NLP,Pandas,Scikit-Learn location: Pune"
+        ]
+      },
+      {
+        "field_name": "attributes.organizations",
+        "source_record_id": "raw_6a41def9304446adb8779f80d82c6338",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": [
+          "Accenture"
+        ]
+      },
+      {
+        "field_name": "summary",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      },
+      {
+        "field_name": "contact.phone",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      },
+      {
+        "field_name": "contact.alternate_emails",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      },
+      {
+        "field_name": "contact.alternate_phones",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      },
+      {
+        "field_name": "contact.linkedin_url",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      },
+      {
+        "field_name": "location.country",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      },
+      {
+        "field_name": "location.postal_code",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      },
+      {
+        "field_name": "certifications",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      },
+      {
+        "field_name": "languages",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      }
+    ],
+    "attributes": {}
+  },
+  {
+    "candidate_id": "master::group::email_match::rahul.singh_at_gmail.com",
+    "full_name": "Rahul Singh",
+    "email": "rahul.singh@gmail.com",
+    "phone": "+919988776655",
+    "current_title": "Full Stack Developer",
+    "location": "Hyderabad",
+    "skills": [
+      "React",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "JavaScript",
+      "TypeScript",
+      "Redux"
+    ],
+    "confidence_score": 0.81,
+    "provenance": [
+      {
+        "field_name": "full_name",
+        "source_record_id": "raw_c2f3c07cf73541feaded23778e23cad9",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": "Rahul Singh"
+      },
+      {
+        "field_name": "first_name",
+        "source_record_id": "raw_c2f3c07cf73541feaded23778e23cad9",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": "Rahul"
+      },
+      {
+        "field_name": "last_name",
+        "source_record_id": "raw_c2f3c07cf73541feaded23778e23cad9",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": "Singh"
+      },
+      {
+        "field_name": "headline",
+        "source_record_id": "raw_c2f3c07cf73541feaded23778e23cad9",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": "Full Stack Developer"
+      },
+      {
+        "field_name": "contact.email",
+        "source_record_id": "raw_c2f3c07cf73541feaded23778e23cad9",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": "rahul.singh@gmail.com"
+      },
+      {
+        "field_name": "contact.phone",
+        "source_record_id": "raw_c2f3c07cf73541feaded23778e23cad9",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": "+919988776655"
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_c2f3c07cf73541feaded23778e23cad9",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "name": "React",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_c2f3c07cf73541feaded23778e23cad9",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "name": "Node.js",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_c2f3c07cf73541feaded23778e23cad9",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "name": "Express.js",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_c2f3c07cf73541feaded23778e23cad9",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "name": "MongoDB",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_c2f3c07cf73541feaded23778e23cad9",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "name": "JavaScript",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_c2f3c07cf73541feaded23778e23cad9",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "name": "TypeScript",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "skills",
+        "source_record_id": "raw_c2f3c07cf73541feaded23778e23cad9",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "name": "Redux",
+          "category": null,
+          "years_of_experience": null,
+          "evidence": []
+        }
+      },
+      {
+        "field_name": "education",
+        "source_record_id": "raw_692be44141e5470aaba3abdb76dbb07b",
+        "source_name": "Rahul Singh.pdf",
+        "source_type": "resume_pdf",
+        "method": "merged",
+        "source_value": {
+          "institution_name": "JNTU Hyderabad",
+          "degree": "b.tech",
+          "field_of_study": "Information Technology",
+          "graduation_date": "2022-01-01"
+        }
+      },
+      {
+        "field_name": "work_experience",
+        "source_record_id": "raw_c2f3c07cf73541feaded23778e23cad9",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "merged",
+        "source_value": {
+          "company_name": "Capgemini",
+          "title": "Full Stack Developer",
+          "start_date": null,
+          "end_date": null,
+          "is_current": false,
+          "description": "name: Rahul Singh email: rahul.singh@gmail.com phone: +91-9988776655 company: Capgemini title: Full Stack Developer skills: React,Node.js,Express.js,MongoDB,JavaScript,TypeScript,Redux location: Hyderabad"
+        }
+      },
+      {
+        "field_name": "work_experience",
+        "source_record_id": "raw_692be44141e5470aaba3abdb76dbb07b",
+        "source_name": "Rahul Singh.pdf",
+        "source_type": "resume_pdf",
+        "method": "merged",
+        "source_value": {
+          "company_name": "Capgemini",
+          "title": "Full Stack Developer",
+          "start_date": null,
+          "end_date": null,
+          "is_current": true,
+          "description": "Full Stack Developer, Capgemini Jul 2022 - present"
+        }
+      },
+      {
+        "field_name": "location.city",
+        "source_record_id": "raw_c2f3c07cf73541feaded23778e23cad9",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": "Hyderabad"
+      },
+      {
+        "field_name": "location.raw_location",
+        "source_record_id": "raw_c2f3c07cf73541feaded23778e23cad9",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": "Hyderabad"
+      },
+      {
+        "field_name": "location.state_or_region",
+        "source_record_id": "raw_692be44141e5470aaba3abdb76dbb07b",
+        "source_name": "Rahul Singh.pdf",
+        "source_type": "resume_pdf",
+        "method": "conflict_resolution",
+        "source_value": "Telangana"
+      },
+      {
+        "field_name": "attributes.source_sentences",
+        "source_record_id": "raw_c2f3c07cf73541feaded23778e23cad9",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": [
+          "name: Rahul Singh email: rahul.singh@gmail.com phone: +91-9988776655 company: Capgemini title: Full Stack Developer skills: React,Node.js,Express.js,MongoDB,JavaScript,TypeScript,Redux location: Hyderabad"
+        ]
+      },
+      {
+        "field_name": "attributes.organizations",
+        "source_record_id": "raw_c2f3c07cf73541feaded23778e23cad9",
+        "source_name": "recruiter.csv",
+        "source_type": "recruiter_csv",
+        "method": "conflict_resolution",
+        "source_value": [
+          "Capgemini"
+        ]
+      },
+      {
+        "field_name": "summary",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      },
+      {
+        "field_name": "contact.alternate_emails",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      },
+      {
+        "field_name": "contact.alternate_phones",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      },
+      {
+        "field_name": "contact.linkedin_url",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      },
+      {
+        "field_name": "location.country",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      },
+      {
+        "field_name": "location.postal_code",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      },
+      {
+        "field_name": "certifications",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      },
+      {
+        "field_name": "languages",
+        "source_record_id": "system",
+        "source_name": "system",
+        "source_type": "system",
+        "method": "default_value",
+        "source_value": null
+      }
+    ],
+    "attributes": {}
+  }
+]
