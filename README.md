@@ -103,18 +103,23 @@ multi-source-candidate-data-transformer/
 
 ---
 
+
+
 # Installation
 
 Clone the repository
 
+
+**Prerequisite:** Python 3.11 or later
+
 ```bash
-git clone <repository-url>
+git clone https://github.com/UJJWAL2282/Multi-Source-Candidate-Data-Transformer.git
 ```
 
 Move to the project directory
 
 ```bash
-cd multi-source-candidate-data-transformer
+cd "CANDIDATE-TRANSFORMATION-PIPELINE"
 ```
 
 Create a virtual environment
@@ -209,6 +214,9 @@ Run with custom input and output paths
 ```bash
 python main.py --csv data/input/recruiter.csv --resumes data/input/resumes --output data/output/output.json
 ```
+
+
+After successful execution, the generated output is written to: data/output/output.json
 
 ---
 
