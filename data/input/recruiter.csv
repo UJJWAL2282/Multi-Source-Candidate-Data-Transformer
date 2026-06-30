@@ -1,0 +1,5 @@
+name,email,phone,company,title,skills,location
+Aarav Sharma,aarav.sharma@gmail.com,+91-9876543210,Infosys,Software Engineer,"Java,Python,SQL,AWS,Docker,Spring Boot",Bengaluru
+Aarav Sharma,aarav.sharma@gmail.com,+91-9876543210,TCS,Senior Software Engineer,"Java,Python,Kubernetes,Docker,Azure,Microservices",Bangalore
+Priya Verma,priya.verma@gmail.com,,Accenture,Data Scientist,"Python,Machine Learning,TensorFlow,NLP,Pandas,Scikit-Learn",Pune
+Rahul Singh,rahul.singh@gmail.com,+91-9988776655,Capgemini,Full Stack Developer,"React,Node.js,Express.js,MongoDB,JavaScript,TypeScript,Redux",Hyderabad

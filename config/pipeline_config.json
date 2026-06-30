@@ -1,0 +1,32 @@
+{
+  "input": {
+    "recruiter_csv_path": "data/input/recruiter.csv",
+    "resume_directory": "data/input/resumes"
+  },
+  "output": {
+    "output_json_path": "data/output/output.json"
+  },
+  "projection": {
+    "config_path": "config/projection_config.json"
+  },
+  "logging": {
+    "level": "INFO"
+  },
+  "processing": {
+    "batch_size": 100
+  },
+  "sources": {
+    "enable_recruiter_csv": true,
+    "enable_resumes": true,
+    "github": false,
+    "linkedin": false,
+    "ats_json": false
+  },
+  "output_validation": {
+    "required_fields": [
+      "candidate_id"
+    ],
+    "allow_unknown_fields": true,
+    "pretty": true
+  }
+}

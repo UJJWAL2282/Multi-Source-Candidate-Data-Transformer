@@ -1,0 +1,30 @@
+{
+  "field_selection": [
+    "master_candidate_id",
+    "canonical_profile.full_name",
+    "canonical_profile.contact.email",
+    "canonical_profile.contact.phone",
+    "canonical_profile.headline",
+    "canonical_profile.location.raw_location",
+    "canonical_profile.skills"
+  ],
+  "field_renames": {
+    "master_candidate_id": "candidate_id",
+    "canonical_profile.headline": "current_title",
+    "canonical_profile.location.raw_location": "location"
+  },
+  "include_confidence": true,
+  "include_provenance": true,
+  "missing_value_policy": "omit",
+  "ordering": [
+    "candidate_id",
+    "full_name",
+    "email",
+    "phone",
+    "current_title",
+    "location",
+    "skills",
+    "confidence_score",
+    "provenance"
+  ]
+}
